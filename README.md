@@ -2,6 +2,10 @@
 
 Aplicación móvil desarrollada en **Flutter** que consulta de manera asíncrona la API pública de **Open-Meteo** para obtener información de contaminación atmosférica (PM2.5) según la ciudad seleccionada en Colombia, y calcula un índice de exposición diaria personalizado basado en el tiempo que el usuario pasa al aire libre.
 
+<img width="921" height="1039" alt="image" src="https://github.com/user-attachments/assets/64193bb6-2944-4763-a51b-740938f1c4e6" />
+<img width="921" height="1176" alt="image" src="https://github.com/user-attachments/assets/8bdf9513-fe66-40d3-bce7-5ae9ab416cdd" />
+<img width="852" height="1355" alt="image" src="https://github.com/user-attachments/assets/c93b707c-6506-4d0f-a8cf-b082ed2da1fb" />
+
 ## 📱 Descripción
 
 La app permite al usuario:
